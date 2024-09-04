@@ -1,7 +1,7 @@
 {
   "name": "jsfs-precourse-set-timeout-loop",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "tsx watch --test src/index.test.ts"
   },
